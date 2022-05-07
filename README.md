@@ -13,11 +13,13 @@ Models:
 - LSTM Model
 - CNN Model
   - convolution layer
-  - embedding layer
+  - embedding layer: we created our own pretrained glove embedding
   - max pooling layer
   - flatten
   - dropout layer
-  - 20 epochs
+  - 15 epochs
+  - 32 batch size
+  - 0.001 learning rate
   - Adam Optimizer
 
 Evaluation:
