@@ -46,6 +46,7 @@ Evaluation:
 - f1 score
 
 Table of Results for CNN Model:
+
 <img width="412" alt="Screen Shot 2022-05-07 at 9 24 51 PM" src="https://user-images.githubusercontent.com/24924126/167281679-721ee3ce-2e13-4c8f-8d4b-1b71cb0c2e8f.png">
 
 <img width="400" alt="Screen Shot 2022-05-07 at 9 25 06 PM" src="https://user-images.githubusercontent.com/24924126/167281681-a800f866-d042-4707-8c7a-eab9972fe2c8.png">
