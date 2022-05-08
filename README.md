@@ -1,4 +1,4 @@
-# Deep Learning for Healthcare Final Project: Reproducing Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records
+# Deep Learning for Healthcare Final Project
 
 We researched the paper "Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records" and reproduced the results from this paper.
 
