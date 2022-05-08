@@ -1,6 +1,6 @@
-# DLH_Final_Project
+# Deep Learning for Healthcare Final Project: Reproducing Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records
 
-We researched the paper "Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records" and replicated the results from this paper.
+We researched the paper "Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records" and reproduced the results from this paper.
 
 Original Paper Citation: 
 Hsu J-L, Hsu T-J, Hsieh C-H, Singaravelan A. Applying Convolutional Neural Networks to Predict the ICD-9 Codes of Medical Records. Sensors. 2020; 20(24):7116. https://doi.org/10.3390/s20247116
